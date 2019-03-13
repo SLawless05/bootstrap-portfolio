@@ -1,8 +1,38 @@
+/* 
+LGreen = #78e08f
+pBlue = #003153
+lred = #e55039
+lBlue = #60a3bc
+dblue = #0c2461
+jred = #b71540
+*/
+
 body {
-    background-image: url('../images/background.jpg') no-repeat;
-    background-color: #9c351c;
+    background-color: #60a3bc!important;
 }
 
-.container {
-    background-color: #9c351c;
+.navbar {
+    background-color: #003153!important;
+}
+
+.navbar-brand {
+    color: #78e08f!important;
+}
+
+a {
+    color: #e55039!important;
+}
+
+.contact-body {
+    width: 50%!important;
+    margin:auto;
+    margin-top:200px;
+}
+
+h1 {
+    color: #b71540!important;
+}
+
+p {
+    color: #0c2461!important;
 }
